@@ -9,9 +9,9 @@ class cfgpatches {
 		author = "Gatordev";
 	};
 };
-class mode_semiauto;	// External class reference
-class mode_burst;	// External class reference
-class mode_fullauto;	// External class reference
+class mode_semiauto;	
+class mode_burst;	
+class mode_fullauto;	
 
 class cfgweapons {
 	class Rifle_Base_F;	// External class reference
